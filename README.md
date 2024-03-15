@@ -17,29 +17,29 @@
 ### <script>document.write(window.location.href);</script>
 
 - "<script>", tag HTML que indica que o conteúdo é um script.
-![Script-print](imagem)
+- ![Script-print](imagem)
 
 - "Document.write()", método JavaScript que escreve conteúdo na página HTML.
-![Document-print](Imagem)
+- ![Document-print](Imagem)
 
 - "window.location.href", acessa a prioridade "href" do objeto "location" do navegador, que contém o URL atual da página.
-![window-print](imagem)
+- ![window-print](imagem)
 
 ## Código 2 
 
 ### <script> var str = 'Terminal Root'; var str = str.slice(0, -5)+' Bash'; document.write(str); </script>
 
 - "<script>", Tag HTML que indica que o conteúdo é um script.
-![Script-print](imagem)
+- ![Script-print](imagem)
 
 - "var str ='Terminal Root'", define uma variável chamada "str" e atribui a ela o valor "Terminal Root".
-![varStr-print](imagem)
+- ![varStr-print](imagem)
 
 - "var str = str.slice(0, -5)+"bash"; ", corta os últimos 5 caracteres da string "str" utilizando o método "slice" e concatena "bash" ao resultado, atribuindo esse novo valor á variável "str".
-![varSlice-print](imagem)
+- ![varSlice-print](imagem)
 
 - "document.write(str);", escreve o valor da variável "str" na página HTML. Nesse caso, "Terminal Bash" será escrito na página.
-![documentWrite-print](imagem)
+- ![documentWrite-print](imagem)
 
 # Conclusão 
 
