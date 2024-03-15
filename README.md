@@ -56,3 +56,11 @@
 [Free Code Camp](https://www.freecodecamp.org/portuguese/news/como-formatar-codigo-em-markdown/)
 
 [DevMedia](https://www.google.com/amp/s/www.devmedia.com.br/amp/javascript-tutorial/37257)
+
+[ChatGpt](https://chat.openai.com/)
+
+[Terminal Root](https://terminalroot.com.br/2016/12/alguns-codigos-simples-de-javascript-2.html)
+
+[Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-javascript)
+
+[Alura](https://www.alura.com.br/artigos/javascript)
