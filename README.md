@@ -4,8 +4,13 @@
 
 ### Neste projeto foi escolhido dois códigos JavaScript para desfragmentá-los e descorrer sobre o que cada elemento faz, sendo assim os códigos escolhidos são:
 
+<<<<<<< HEAD
  - <img src="Imagens/Código 1.png">
  - <img src="Imagens/Código 2.png">
+=======
+ - ![Pegar URL](imagem)
+ - ![Adicionar Caracteres](imagem)
+>>>>>>> aeb41ffba1b83b65998a7e9be03cbbe8dfe8ba53
 
 ### Obs: Os códigos estão embutidos no html, portanto é necessário utilizar a estrutura HTML.
 
@@ -17,6 +22,7 @@
 
 ### <script>document.write(window.location.href);</script>
 
+<<<<<<< HEAD
 - "script", tag HTML que indica que o conteúdo é um script.
 - <img src="Imagens/script1.png">
 
@@ -25,11 +31,22 @@
 
 - "window.location.href", acessa a prioridade "href" do objeto "location" do navegador, que contém o URL atual da página.
 - <img src="Imagens/window-print.png">
+=======
+- "<script>", tag HTML que indica que o conteúdo é um script.
+- ![Script-print](imagem)
+
+- "Document.write()", método JavaScript que escreve conteúdo na página HTML.
+- ![Document-print](Imagem)
+
+- "window.location.href", acessa a prioridade "href" do objeto "location" do navegador, que contém o URL atual da página.
+- ![window-print](imagem)
+>>>>>>> aeb41ffba1b83b65998a7e9be03cbbe8dfe8ba53
 
 ## Código 2 👨‍💻
 
 ### <script> var str = 'Terminal Root'; var str = str.slice(0, -5)+' Bash'; document.write(str); </script>
 
+<<<<<<< HEAD
 - "script", Tag HTML que indica que o conteúdo é um script.
 - <img src="Imagens/script1.png">
 
@@ -41,6 +58,19 @@
 
 - "document.write(str);", escreve o valor da variável "str" na página HTML. Nesse caso, "Terminal Bash" será escrito na página.
 - <img src="Imagens/documentWrite-print.png">
+=======
+- "<script>", Tag HTML que indica que o conteúdo é um script.
+- ![Script-print](imagem)
+
+- "var str ='Terminal Root'", define uma variável chamada "str" e atribui a ela o valor "Terminal Root".
+- ![varStr-print](imagem)
+
+- "var str = str.slice(0, -5)+"bash"; ", corta os últimos 5 caracteres da string "str" utilizando o método "slice" e concatena "bash" ao resultado, atribuindo esse novo valor á variável "str".
+- ![varSlice-print](imagem)
+
+- "document.write(str);", escreve o valor da variável "str" na página HTML. Nesse caso, "Terminal Bash" será escrito na página.
+- ![documentWrite-print](imagem)
+>>>>>>> aeb41ffba1b83b65998a7e9be03cbbe8dfe8ba53
 
 # Conclusão ✨
 
