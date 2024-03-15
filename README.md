@@ -27,5 +27,24 @@
 
 ## Código 2 
 
-### 
+### <script> var str = 'Terminal Root'; var str = str.slice(0, -5)+' Bash'; document.write(str); </script>
+
+- "<script>", Tag HTML que indica que o conteúdo é um script.
+![Script-print](imagem)
+
+- "var str ='Terminal Root'", define uma variável chamada "str" e atribui a ela o valor "Terminal Root".
+![varStr-print](imagem)
+
+- "var str = str.slice(0, -5)+"bash"; ", corta os últimos 5 caracteres da string "str" utilizando o método "slice" e concatena "bash" ao resultado, atribuindo esse novo valor á variável "str".
+![varSlice-print](imagem)
+
+- "document.write(str);", escreve o valor da variável "str" na página HTML. Nesse caso, "Terminal Bash" será escrito na página.
+![documentWrite-print](imagem)
+
 # Conclusão 
+
+### A implementação de JavaScript em website é importante pois desempenha um papel fundamental na criação de websites interativos, dinâmicos e funcionais, melhorando a experiência do usuário e permitindo uma maior interação e personalização.
+
+# Tecnologias Utilizadas
+
+
