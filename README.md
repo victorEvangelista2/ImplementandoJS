@@ -1,6 +1,7 @@
 # Projeto Implementando JavaScript
 
-# Introdução
+# Introdução 📄
+
 ### Neste projeto foi escolhido dois códigos JavaScript para desfragmentá-los e descorrer sobre o que cada elemento faz, sendo assim os códigos escolhidos são:
 
  - ![Pegar URL](imagem)
@@ -8,11 +9,11 @@
 
 ### Obs: Os códigos estão embutidos no html, portanto é necessário utilizar a estrutura HTML.
 
-# Desenvolvimento
+# Desenvolvimento ⚙️
 
 ## O que cada elemento do código significa:
 
-## Código 1
+## Código 1 👨‍💻
 
 ### <script>document.write(window.location.href);</script>
 
@@ -25,7 +26,7 @@
 - "window.location.href", acessa a prioridade "href" do objeto "location" do navegador, que contém o URL atual da página.
 - ![window-print](imagem)
 
-## Código 2 
+## Código 2 👨‍💻
 
 ### <script> var str = 'Terminal Root'; var str = str.slice(0, -5)+' Bash'; document.write(str); </script>
 
@@ -41,11 +42,11 @@
 - "document.write(str);", escreve o valor da variável "str" na página HTML. Nesse caso, "Terminal Bash" será escrito na página.
 - ![documentWrite-print](imagem)
 
-# Conclusão 
+# Conclusão ✨
 
 ### A implementação de JavaScript em website é importante pois desempenha um papel fundamental na criação de websites interativos, dinâmicos e funcionais, melhorando a experiência do usuário e permitindo uma maior interação e personalização.
 
-# Tecnologias Utilizadas
+# Tecnologias Utilizadas 📱💻
 
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
