@@ -47,4 +47,12 @@
 
 # Tecnologias Utilizadas
 
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
+[Markdown e Pandoc](http://cursos.leg.ufpr.br/prr/capMarkdown.html#:~:text=Para%20inserir%20uma%20imagem%2C%20a,texto%5D(imagem)%20.)
+
+[Pipz](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+[Free Code Camp](https://www.freecodecamp.org/portuguese/news/como-formatar-codigo-em-markdown/)
+
+[DevMedia](https://www.google.com/amp/s/www.devmedia.com.br/amp/javascript-tutorial/37257)
